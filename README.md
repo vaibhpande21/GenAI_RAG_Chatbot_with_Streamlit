@@ -35,14 +35,14 @@ It allows users to upload PDF documents, create vector embeddings, and then **as
 genai-rag-chatbot/  
 │── app.py              # Streamlit chatbot app  
 │── requirements.txt    # Python dependencies  
-│── .env.example        # Sample environment variables  
-│── .gitignore          # Ignore unnecessary files  
+│── .env.example        # Sample environment variables   
 │── README.md           # Project documentation  
-│── LICENSE             # Open-source license (MIT recommended)  
-│── notebooks/          # (Optional) Experiments and testing  
-│── vectorstore/        # (Ignored) Generated vector embeddings  
-│── temp/               # (Ignored) Uploaded PDFs  
-⚙️ Setup & Installation
+│── LICENSE             # Open-source license (MIT recommended)
+
+---
+
+## ⚙️ Setup & Installation
+
 
 1️⃣ Clone the repository
 

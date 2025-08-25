@@ -38,37 +38,45 @@ genai-rag-chatbot/
 │── .env.example        # Sample environment variables   
 │── README.md           # Project documentation  
 │── LICENSE             # Open-source license (MIT recommended)
-
+```
 ---
 
 ## ⚙️ Setup & Installation
 
 
 1️⃣ Clone the repository
-
+```bash
 git clone https://github.com/vaibhavpande21/genai-rag-chatbot.git
 cd genai-rag-chatbot
+```
 
 2️⃣ Create a virtual environment
-
+```bash
 python -m venv .venv  
 source .venv/bin/activate   # Mac/Linux  
 .venv\Scripts\activate      # Windows
+```
 
 3️⃣ Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
 4️⃣ Set up environment variables
-
+```bash
 Create a .env file in the project root:
 OPENAI_API_KEY=openai_api_key
+```
 
 ▶️ Running the App
 Start the Streamlit app:
+```bash
 streamlit run app.py
+```
 The app will open in your browser at:
+```bash
 👉 http://localhost:8501
+```
 
 📖 How It Works:
 

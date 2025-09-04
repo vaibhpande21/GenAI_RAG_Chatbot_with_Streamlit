@@ -65,7 +65,7 @@ Below is a preview of the chatbot interface:
 
 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/vaibhavpande21/GenAI_RAG_Chatbot_with_Streamlit.git
+git clone https://github.com/vaibhpande21/GenAI_RAG_Chatbot_with_Streamlit.git
 cd GenAI_RAG_Chatbot_with_Streamlit
 ```
 

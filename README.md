@@ -41,13 +41,32 @@ genai-rag-chatbot/
 ```
 ---
 
+
+---
+
+## 📌 System Architecture
+
+The following diagram explains the **end-to-end RAG workflow**:
+
+![RAG Workflow](flowchart.png)
+
+---
+
+## 📌 Demo UI
+
+Below is a preview of the chatbot interface:
+
+![Chatbot UI](img.png)
+
+---
+
 ## ⚙️ Setup & Installation
 
 
 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/vaibhavpande21/genai-rag-chatbot.git
-cd genai-rag-chatbot
+git clone https://github.com/vaibhavpande21/GenAI_RAG_Chatbot_with_Streamlit.git
+cd GenAI_RAG_Chatbot_with_Streamlit
 ```
 
 2️⃣ Create a virtual environment
